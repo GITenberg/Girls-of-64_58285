@@ -1,0 +1,23 @@
+_repo: Girls-of-64_58285
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Knipe, Emilie Benson
+    gutenberg_agent_id: '49876'
+    url: http://www.gutenberg.org/2009/agents/49876
+  - agent_name: Knipe, Alden Arthur
+    gutenberg_agent_id: '49877'
+    url: http://www.gutenberg.org/2009/agents/49877
+description: ''
+gutenberg_issued: '2018-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Girls of '64
+url: http://www.gutenberg.org/ebooks/58285
