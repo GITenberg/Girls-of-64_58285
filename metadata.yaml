@@ -1,5 +1,8 @@
 _repo: Girls-of-64_58285
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58285-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Knipe, Emilie Benson
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49877'
     url: http://www.gutenberg.org/2009/agents/49877
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58285#Girls-of-64
 gutenberg_issued: '2018-11-14'
 gutenberg_type: Text
 identifiers:
